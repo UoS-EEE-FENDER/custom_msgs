@@ -1,2 +1,2 @@
-geometry_msgs/PoseStamped poseStamped
-custom_msgs_ros2/RedundancyInformation redundancy
+geometry_msgs/PoseStamped pose_stamped
+custom_msgs/RedundancyInformation redundancy

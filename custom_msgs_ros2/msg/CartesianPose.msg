@@ -1,0 +1,2 @@
+geometry_msgs/PoseStamped poseStamped
+custom_msgs_ros2/RedundancyInformation redundancy

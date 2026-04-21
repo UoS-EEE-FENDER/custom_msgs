@@ -22,7 +22,10 @@ add_message_files(
   DIRECTORY
     msg
   FILES
-    PseudoGridMap.msg
+    CartesianPose.msg,
+    JointPosition.msg,
+    JointQuantity.msg,
+    RedundancyInformation.msg,
 )
 
 generate_messages(

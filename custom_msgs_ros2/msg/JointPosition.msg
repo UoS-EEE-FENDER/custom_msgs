@@ -1,2 +1,2 @@
 std_msgs/Header header
-custom_msgs_ros2/JointQuantity position
+custom_msgs/JointQuantity position

@@ -16,10 +16,10 @@ find_package(geometry_msgs REQUIRED)
 find_package(std_msgs REQUIRED)
 
 rosidl_generate_interfaces(${PROJECT_NAME}
-  "msg/CartesianPose.msg",
-  "msg/JointPosition.msg",
-  "msg/JointQuantity.msg",
-  "msg/RedundancyInformation.msg",
+  "msg/CartesianPose.msg"
+  "msg/JointPosition.msg"
+  "msg/JointQuantity.msg"
+  "msg/RedundancyInformation.msg"
 
 
   DEPENDENCIES geometry_msgs std_msgs
